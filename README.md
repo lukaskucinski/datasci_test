@@ -12,5 +12,9 @@ And some say Jesus coming for"
 #Test 3
 "For all I know the earth is spinning slow
 Sun's at half-mast cuz masses ain't aglow
-On bended kneww, prostrate before an altered tree
+On bended knee, prostrate before an altered tree
 I've made the forest suit me"
+#Test 4
+"Tables and chairs,
+papers and prayers
+matter vs spirit"
